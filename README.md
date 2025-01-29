@@ -10,7 +10,6 @@ let personname = "shanza";
 console.log('Hello', personname, "would you like to learn some TypeScript today?");
 Q3: Name Formatting
 Converts a given name to:
-
 Lowercase
 Uppercase
 Titlecase
