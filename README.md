@@ -3,7 +3,6 @@ This repository contains basic TypeScript exercises that cover fundamental strin
 
 Q2: Personalized Greeting
 A simple TypeScript program that greets a person with their name.
-
 typescript
 Copy
 Edit
